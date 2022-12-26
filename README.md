@@ -14,7 +14,8 @@
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thiago-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />        
+  <img align="center" alt="Thiago-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />     
+  <img align="center" alt="Thiago-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="right" alt="Thiago-pic" height="150" style="border-radius:50px;" src="https://instagram.fiza2-1.fna.fbcdn.net/v/t51.2885-15/317543271_3338677403066840_6036711785390375577_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.fiza2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=k2t8XfjJc20AX-yYDu7&tn=gf1Cy0Nj3aGPaEBn&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=Mjk4Mzk4NzIyNDU2ODMyNDg5Nw%3D%3D.2-ccb7-5&oh=00_AfDIEmjT3cgffNHINVYkXw50GwKAcwsQCNdGn7OdwXQ9xA&oe=63AECD2D&_nc_sid=1527a3">
 </div>
 
