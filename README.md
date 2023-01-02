@@ -29,7 +29,7 @@
  
 </div>
 
-- 🔭 I’m currently working as a front-end developer
+- 🔭 I’m currently a front-end developer
 - 🌱 I’m currently learning ReactJS
 - ⚡ Fun fact: I'm also a guitarrist player and a forklift operator 🤣
 
