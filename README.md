@@ -12,7 +12,9 @@
   <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thiago-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />     
   <img align="center" alt="Thiago-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Thiago-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Thiago-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
+   <img align="center" alt="Thiago-TW" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+          
           
   <img align="right" alt="Thiago-pic" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/D4D03AQEIt2xR2m-AOw/profile-displayphoto-shrink_200_200/0/1672543573653?e=1678320000&v=beta&t=sZ4eyQUyZ_arVl8I-3IReNy068Hq81zYoUtCVS6ghYs">
 </div>
