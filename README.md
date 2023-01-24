@@ -31,6 +31,6 @@
 </div>
 
 - 🔭 I’m currently a front-end developer
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning NodeJs
 - ⚡ Fun fact: I'm also a guitarrist player and a forklift operator 🤣
 
