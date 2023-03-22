@@ -35,6 +35,5 @@
 </div>
 
 - 🔭 I’m currently a front-end developer
-- 🌱 I’m currently learning Java
 - ⚡ Fun fact: I'm also a guitarrist player and a forklift operator 🤣
 
