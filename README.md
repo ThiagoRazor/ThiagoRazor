@@ -20,7 +20,7 @@
   <img align="center" alt="Thiago-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img align="center" alt="Thiago-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
         
-  <img align="right" alt="Thiago-pic" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/D4D03AQEIt2xR2m-AOw/profile-displayphoto-shrink_200_200/0/1672543573653?e=1678320000&v=beta&t=sZ4eyQUyZ_arVl8I-3IReNy068Hq81zYoUtCVS6ghYs">
+  <img align="right" alt="Thiago-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/ThiagoRazor/thiago-tree/main/public/avatar.jpg">
 </div>
 
 ##
@@ -28,7 +28,7 @@
 <div> 
   <a href="https://instagram.com/thiago.razor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:thiago.silva@ice.ufjf.br"https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiago-de-oliveira-da-silva-806772255" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/thiago-oliveira-5a171426a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 
  
