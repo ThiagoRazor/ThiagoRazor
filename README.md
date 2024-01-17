@@ -43,7 +43,7 @@
 
 #### Estudando no Momento:
 
-![ASSEMBLY](https://img.shields.io/badge/_-ASSEMBLY-6E4C13.svg?style=for-the-badge)&nbsp;
+![Assembly](https://img.shields.io/badge/_-ASSEMBLY-6E4C13.svg?style=for-the-badge)&nbsp;
 
 
 #### Databases:
